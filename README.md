@@ -2,7 +2,7 @@
 
 Se trata de un repositorio donde se va a alojar el contenido de las prácticas de Ingeniería del Software. Con él se ejemplifica el uso de lenguaje MarkDown.
 
-# Comandos útiles de Git
+## Comandos útiles de Git
 
 1. **git --help**
 2. **git --version**
